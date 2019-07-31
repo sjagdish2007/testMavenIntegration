@@ -26,7 +26,7 @@ public class ServiceHooks {
 	
 	@Before 
     public void beforeScenario(){
-        System.out.println("This will run before the Scenario--edit");
+        System.out.println("This will run before the Scenario--edit1234");
     }	
 	
 	@After
